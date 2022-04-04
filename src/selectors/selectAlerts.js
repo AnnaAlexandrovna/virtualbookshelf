@@ -1,0 +1,1 @@
+export const selectAlerts = state => Array.from(state.alertsToShow.alerts.values());

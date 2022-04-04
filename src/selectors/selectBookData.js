@@ -1,0 +1,1 @@
+export const selectBookData = state => state.bookData.book.data ?? {};

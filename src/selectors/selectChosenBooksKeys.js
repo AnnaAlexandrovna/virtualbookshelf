@@ -1,0 +1,1 @@
+export const selectChosenBooksKeys = state => Object.keys(state.favorites.books) ?? [];
